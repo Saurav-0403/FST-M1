@@ -1,0 +1,5 @@
+Name = input("Enter your name ")
+Age = int(input("Enter your Age "))
+Year = 2024 + (100-Age)
+txt_message = f"Hi {Name}, you are gonna be 100 year old in {Year}".format(Name,Year)
+print(txt_message)
