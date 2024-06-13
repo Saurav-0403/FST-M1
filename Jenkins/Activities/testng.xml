@@ -2,7 +2,7 @@
 <suite name="Selenium Suit 1" parallel="classes" >
     <test name="Selenium Test 1" >
         <classes>
-            <class name="Activity10"/>
+            <class name="Activity1"/>
         </classes>
     </test>
 </suite>
